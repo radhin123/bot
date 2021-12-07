@@ -12,8 +12,8 @@
 </p>
 # Simple Method
   
- 
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@spyro-ser-ofc/SPYRO-SIR-Qr-code-1)
+
 
 ## `Deploy`
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/JINN-SER/jinn-ser-ofc/)
