@@ -1,17 +1,11 @@
 {
-  "name": "SPYRO-SER-OFC",
-  "description": "whatsapp bot build with nodejs",
+  "name": "DXTROX",
+  "description": "Lightweight WhatsApp Bot",
   "repository": "https://github.com/amal-dx/bot",
-  "logo": "https://i.imgur.com/pbE3ZQ7.jpeg",
-  "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation"]
-  "buildpacks": [{
-    "url": "https://github.com/DuckyTeam/heroku-buildpack-imagemagick"
-  }, {
-    "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
-  }]
+  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "keywords": [
+    "bot",
+    "whatsapp",
+    "whatsapp-bot"
+  ]
 }
-
-
-
-
-
