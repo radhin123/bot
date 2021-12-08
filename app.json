@@ -1,7 +1,7 @@
 {
   "name": "SPYRO-SER-OFC",
   "description": "whatsapp bot build with nodejs",
-  "repository": "https://github.com/spyro-ser-ofc/BOT-SER-SPYRO",
+  "repository": "https://github.com/amal-dx/bot",
   "logo": "https://i.imgur.com/pbE3ZQ7.jpeg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation"]
   "buildpacks": [{
