@@ -16,7 +16,7 @@
 
 
 ## `Deploy`
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/amal-dx/bot/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/amal-dx/bot)
 <h3 align="center">𝑴𝒂𝒅𝒆 𝑾𝒊𝒕𝒉 𝑱𝒊𝒏𝒏𝑺𝒆𝒓</h3>
 <p align="center">
   <a href="https://github.com/JINN-SER"><img src="https://i.imgur.com/X8MUqgj.jpeg" height="128" width="128" /></a>
